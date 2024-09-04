@@ -24,3 +24,15 @@ Have to deal with the complexity. Represent the distribution.
 
 ![image](https://github.com/user-attachments/assets/9a0cac62-30cf-4754-8674-d0ea7262722a)
 
+![image](https://github.com/user-attachments/assets/99173e45-fcde-41f4-a922-1b7de65e7c29)
+
+![image](https://github.com/user-attachments/assets/dc642dcb-ee42-4174-b332-9c57c10a674d)
+
+![image](https://github.com/user-attachments/assets/2dd8cffe-281b-42ee-ac37-6d1284e7f819)
+
+- Bayesian are a way to simplify complicated distributions based on conditional indepedence assumptions
+
+![image](https://github.com/user-attachments/assets/a092fc78-9ecb-426b-9e42-54d513870dfd)
+
+
+
