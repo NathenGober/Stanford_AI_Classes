@@ -42,3 +42,9 @@ Have to deal with the complexity. Represent the distribution.
 
 ![image](https://github.com/user-attachments/assets/f700c935-afd2-47d5-9727-4d476f10a0ee)
 
+![image](https://github.com/user-attachments/assets/26822dcb-ddca-4c1d-a7f7-53eba6878d4c)
+
+Logistic regression is an assumption.
+Logistic regression is a way to model conditional distribution of y given x where you assume that the conditional distribution takes a specific functional form... linearly combine X's based on alpha and will fit into the S function with z values. 
+- Cannot represent the complicated dependancy on y and all x values
+- Have to assume independecies 
