@@ -36,5 +36,9 @@ Have to deal with the complexity. Represent the distribution.
 
 ![image](https://github.com/user-attachments/assets/4d9e3672-f5ac-4b46-981f-5e21062fec65)
 
-![image](https://github.com/user-attachments/assets/07978b53-caa2-4ded-88a7-76607bd57059)
+![image](https://github.com/user-attachments/assets/4936260e-42d8-47f8-8daa-5b1f5302f8f7)
+
+![image](https://github.com/user-attachments/assets/371150eb-d522-482e-8d6f-eb2c40b36e4c)
+
+![image](https://github.com/user-attachments/assets/f700c935-afd2-47d5-9727-4d476f10a0ee)
 
