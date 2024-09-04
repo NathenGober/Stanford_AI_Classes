@@ -44,7 +44,12 @@ Have to deal with the complexity. Represent the distribution.
 
 ![image](https://github.com/user-attachments/assets/26822dcb-ddca-4c1d-a7f7-53eba6878d4c)
 
-Logistic regression is an assumption.
+Logistic regression is an assumption but not as big of an assumption as Naive-based.
+- Stronger in practice. If you have more data, go with this. 
+
 Logistic regression is a way to model conditional distribution of y given x where you assume that the conditional distribution takes a specific functional form... linearly combine X's based on alpha and will fit into the S function with z values. 
 - Cannot represent the complicated dependancy on y and all x values
-- Have to assume independecies 
+- Have to assume independecies
+
+Naive-based is a big assumption where you assume the 
+- If you have less data, go with this assumption.
