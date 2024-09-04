@@ -34,5 +34,7 @@ Have to deal with the complexity. Represent the distribution.
 
 ![image](https://github.com/user-attachments/assets/a092fc78-9ecb-426b-9e42-54d513870dfd)
 
+![image](https://github.com/user-attachments/assets/4d9e3672-f5ac-4b46-981f-5e21062fec65)
 
+![image](https://github.com/user-attachments/assets/07978b53-caa2-4ded-88a7-76607bd57059)
 
